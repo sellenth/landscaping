@@ -13,6 +13,16 @@ Each milestone ends in a demo that a design-build landscaper would recognize as 
 
 ---
 
+## Progress
+
+**Milestone 1, first slice (done):** canvas, ft-in units and typed dimensions, undo/redo,
+autosave and versioned files, layers, image underlays with Set scale, smooth curve /
+polygon / rectangle / ellipse tools, point editing, snapping, 12 real-scale materials,
+live quantities with editable prices, and CSV bid export.
+
+**Milestone 1, still to do:** plant palette and symbols, offset and union/subtract,
+PDF underlays, labels and dimensions, sheets with title block and PDF export to scale.
+
 ## Milestone 1: Plan & Price
 *Replaces the daily PRO Landscape work and the separate estimate spreadsheet.*
 
