@@ -1,6 +1,9 @@
 # Landscape Design Tool — Brainstorm
 
-> Status: pre-build brainstorm. Nothing here is decided yet. The goal is to understand
+> Status: pre-build brainstorm, kept for reference. Decisions now live in [ROADMAP.md](ROADMAP.md),
+> based on the [first designer survey](research/2026-10-survey-tully.md).
+>
+> Original note: nothing here is decided yet. The goal is to understand
 > what a landscape designer actually does all day, find where current tools hurt,
 > and only then pick an MVP.
 
